@@ -1,4 +1,6 @@
 
+[![GitHub license](https://img.shields.io/github/license/KOSASIH/Neocorela)](https://github.com/KOSASIH/Neocorela/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/KOSASIH/Neocorela)](https://github.com/KOSASIH/Neocorela/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/KOSASIH/Neocorela)](https://github.com/KOSASIH/Neocorela/network)
 [![GitHub issues](https://img.shields.io/github/issues/KOSASIH/Neocorela)](https://github.com/KOSASIH/Neocorela/issues)
 [![Documentation Status](https://readthedocs.org/projects/neocorela/badge/?version=latest)](https://neocorela.readthedocs.io/en/latest/?badge=latest)      
