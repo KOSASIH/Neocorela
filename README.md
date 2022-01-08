@@ -1,5 +1,6 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5513/badge)](https://bestpractices.coreinfrastructure.org/projects/5513)
 [![GitHub license](https://img.shields.io/github/license/KOSASIH/Neocorela)](https://github.com/KOSASIH/Neocorela/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/Neocorela)](https://github.com/KOSASIH/Neocorela/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/KOSASIH/Neocorela)](https://github.com/KOSASIH/Neocorela/network)
