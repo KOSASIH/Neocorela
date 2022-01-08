@@ -1,4 +1,5 @@
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=KOSASIH)
 [![GitHub license](https://img.shields.io/github/license/KOSASIH/Neocorela)](https://github.com/KOSASIH/Neocorela/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/KOSASIH/Neocorela)](https://github.com/KOSASIH/Neocorela/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/KOSASIH/Neocorela)](https://github.com/KOSASIH/Neocorela/network)
