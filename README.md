@@ -51,3 +51,10 @@
 
 # Neocorela
 NFT marketplace that provides transaction services using cryptocurrencies
+
+# Get your wallet here :
+https://phantom.app/
+
+
+
+
